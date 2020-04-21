@@ -1,0 +1,4 @@
+
+limits-service:
+  minimum: 11
+  maximum: 1111
