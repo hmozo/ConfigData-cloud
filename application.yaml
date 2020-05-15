@@ -10,4 +10,4 @@ eureka:
 
 fleetman:
   position:
-    queue: positionQueue
+    queue: positionQueue2
